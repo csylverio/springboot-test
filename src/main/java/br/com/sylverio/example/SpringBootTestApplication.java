@@ -1,4 +1,4 @@
-package br.com.sylverio.example.SpringBootTest;
+package br.com.sylverio.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
